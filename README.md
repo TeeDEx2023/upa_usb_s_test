@@ -1,10 +1,27 @@
 # upa_usb_s_test
 > Testowe plik
 Start 11-04-2023 godzina 19.00
-## Przykłady...
+## Przykłady 1...
 - jeden odnośnik 
 - drugi odnośnik
+
+## Przykłady 2...
+1. jeden odnośnik 
+2. drugi odnośnik
+
+## Przykłady 3...
+-[] jeden odnośnik 
+-[] drugi odnośnik
+
+## kolorowanie
+`Info w kawdracie`
+
+Link do zdjęcia
+![https://teedex.eu/test.jpg](opis)
+
 Przykład linku [TeeD'Ex](https://teedex.eu/forum/). 
+
+~~cos przekreślonego~~
 
 **Przykład diagramu:**
 
