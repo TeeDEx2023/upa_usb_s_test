@@ -1,5 +1,5 @@
 # upa_usb_s_test
-> Testowe plik
+> Testowe plik 
 Start 11-04-2023 godzina 19.00
 ## Przykłady 1...
 - jeden odnośnik 
@@ -10,8 +10,8 @@ Start 11-04-2023 godzina 19.00
 2. drugi odnośnik
 
 ## Przykłady 3...
--[] jeden odnośnik 
--[] drugi odnośnik
+-[Coś tam coś] jeden odnośnik 
+-[ nie tak ] drugi odnośnik
 
 ## kolorowanie
 `Info w kawdracie`
@@ -19,10 +19,10 @@ Start 11-04-2023 godzina 19.00
 Link do zdjęcia
 ![https://teedex.eu/test.jpg](opis)
 
-Przykład linku [TeeD'Ex](https://teedex.eu/forum/). 
+Przykład linku [TeeD'Ex](https://teedex.eu/forum/) 
 
 ~~cos przekreślonego~~
-
+~cos przekreślonego~
 **Przykład diagramu:**
 
 ```mermaid
@@ -31,8 +31,8 @@ TeeD ->> Maikel: Hello Maikel, how are you?
 Maikel-->>Mark: How about you Mark?
 Maikel--x TeeD: I am good thanks!
 Maikel-x Mark: I am good thanks!
-Note right of Mark: Notatka<br/>Coś tam coś <br/>Znów cos <br/>i na koniec coś.
-
+Note right of Mark: Notatka1<br/>Coś tam coś <br/>Znów cos <br/>i na koniec coś.
+Note left of TeeD: Notatka2<br/>Coś tam coś <br/>Znów cos <br/>i na koniec coś.
 Maikel-->TeeD: Checking with Mark...
 TeeD->Mark: Yes... Mark, how are you?
 ```
